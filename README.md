@@ -2,6 +2,7 @@
 
 Most recently I've worked on 
 
+- Future of retail for a global integrated energy company
 - A Computer vision brand governance platform for a global bank
 - A Global eCMS Sitecore deployment
 - Coding advocacy and learning for BT
