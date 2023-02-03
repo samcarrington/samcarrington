@@ -2,15 +2,18 @@
 
 Most recently I've worked on 
 
-- Future of retail for a global integrated energy company
-- A Computer vision brand governance platform for a global bank
-- A Global eCMS Sitecore deployment
-- Coding advocacy and learning for BT
-- Scaling delivery and Takeout for a UK Restaurant chain from beta to production
-- eCommerce partnership platform for AkzoNobel (Dulux)
-- Marketing Site for Budweiser for the World Cup 
-- Recipe site for a UK supermarket
-- Global email campaigns for Xbox
+- 🛫 Digital Strategy for a Global Travel Food Retail Group 
+- 🔌 Future of retail for a global integrated energy company
+- 👁️ A Computer vision brand governance platform for a global bank
+- 📄 A Global eCMS Sitecore deployment
+- 💻 Coding advocacy and learning for BT
+- 🍗 Scaling delivery and Takeout for a UK Restaurant chain from beta to production
+- 🎨 eCommerce partnership platform for AkzoNobel (Dulux)
+- 🍺 Marketing Site for Budweiser for the World Cup 
+- 🍽️ Recipe site for a UK supermarket
+- 🎮 Global email campaigns for Xbox
+
+I'm currently working on Strategy and Leadership for a UK Virtual Mobile Network Operator 📱
 
 My Pronouns are He/Him.
 
