@@ -1,5 +1,7 @@
 ### I'm a technology leader with a passion for making. I lead teams who make products with purpose. I've been a Technical Director at AnalogFolk, at FullSix and head of Interactive Web Development at VML London. I've worked in the public and private sector, and have vital experience in architecting and scaling products from MVP to massive global success. 👋
 
+[![My Skills]([https://skillicons.dev/icons?i=js,html,css,wasm](https://skillicons.dev/icons?i=js,html,css,aws,azure,nuxtjs,ts,vue,wordpress))](https://skillicons.dev
+
 Most recently I've worked on 
 
 - 🛫 Digital Strategy for a Global Travel Food Retail Group 
