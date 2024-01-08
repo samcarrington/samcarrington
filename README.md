@@ -8,6 +8,8 @@
 
 Most recently I've worked on 
 
+- 🛋️ Customer Experience Strategy for Global Furniture Retail
+- 🛒 POC Self-serve Kiosk for Global Energy 
 - 🛫 Digital Strategy for a Global Travel Food Retail Group 
 - 🔌 Future of retail for a global integrated energy company
 - 👁️ A Computer vision brand governance platform for a global bank
