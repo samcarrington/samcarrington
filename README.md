@@ -8,8 +8,9 @@
 
 Most recently I've worked on 
 
+- 💡 Internal Communication Platform for Innovation Group at UK/US Energy Company
 - 🛋️ Customer Experience Strategy for Global Furniture Retail
-- 🛒 POC Self-serve Kiosk for Global Energy 
+- 🛒 POC Self-serve Kiosk for Global Energy and Retail Company
 - 🛫 Digital Strategy for a Global Travel Food Retail Group 
 - 🔌 Future of retail for a global integrated energy company
 - 👁️ A Computer vision brand governance platform for a global bank
@@ -21,23 +22,8 @@ Most recently I've worked on
 - 🍽️ Recipe site for a UK supermarket
 - 🎮 Global email campaigns for Xbox
 
-I'm currently working on Strategy and Leadership for a UK Virtual Mobile Network Operator 📱
+I'm currently working on Strategy and Leadership for a UK Mobile Virtual Network Operator 📱
 
 My Pronouns are He/Him.
 
 I appeared in an Opera at the Royal Opera House as a child. Ask me about VJing in the 90s.
-
-<!--
-**samcarrington/samcarrington** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
