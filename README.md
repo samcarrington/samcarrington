@@ -8,6 +8,8 @@
 
 Most recently I've worked on 
 
+- 🥝 Healthy eating campaign site for a Retail Franchise in the Middle-East
+- 📱 Tech Strategy and Leadership for a UK Mobile Virtual Network Operator 
 - 💡 Internal Communication Platform for Innovation Group at UK/US Energy Company
 - 🛋️ Customer Experience Strategy for Global Furniture Retail
 - 🛒 POC Self-serve Kiosk for Global Energy and Retail Company
@@ -22,7 +24,7 @@ Most recently I've worked on
 - 🍽️ Recipe site for a UK supermarket
 - 🎮 Global email campaigns for Xbox
 
-I'm currently working on Strategy and Leadership for a UK Mobile Virtual Network Operator 📱
+I'm currently working on CMS Implementation Architecture for a Global Bank
 
 My Pronouns are He/Him.
 
