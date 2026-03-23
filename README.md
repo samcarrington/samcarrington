@@ -2,12 +2,14 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,aws,azure,nuxtjs,ts,vue,wordpress" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,aws,azure,nuxtjs,ts,python,vue,wordpress" />
   </a>
 </p>
 
 Most recently I've worked on 
 
+- 🧠 Agentic Research & Innovation Platform
+- 📑 Content asset-management Architecture for a Global Bank
 - 🥝 Healthy eating campaign site for a Retail Franchise in the Middle-East
 - 📱 Tech Strategy and Leadership for a UK Mobile Virtual Network Operator 
 - 💡 Internal Communication Platform for Innovation Group at UK/US Energy Company
@@ -15,6 +17,9 @@ Most recently I've worked on
 - 🛒 POC Self-serve Kiosk for Global Energy and Retail Company
 - 🛫 Digital Strategy for a Global Travel Food Retail Group 
 - 🔌 Future of retail for a global integrated energy company
+
+In previous roles I've delivered: 
+
 - 👁️ A Computer vision brand governance platform for a global bank
 - 📄 A Global eCMS Sitecore deployment
 - 💻 Coding advocacy and learning for BT
@@ -24,7 +29,7 @@ Most recently I've worked on
 - 🍽️ Recipe site for a UK supermarket
 - 🎮 Global email campaigns for Xbox
 
-I'm currently working on CMS Implementation Architecture for a Global Bank
+I'm currently working across a variety of projects in Financial Services, Content Management and Innovation
 
 My Pronouns are He/Him.
 
